@@ -1,0 +1,7 @@
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe.config
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.pdb
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\CollegesLogo.csprojAssemblyReference.cache
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\CollegesLogo.csproj.CoreCompileInputs.cache
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.exe
+E:\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.pdb

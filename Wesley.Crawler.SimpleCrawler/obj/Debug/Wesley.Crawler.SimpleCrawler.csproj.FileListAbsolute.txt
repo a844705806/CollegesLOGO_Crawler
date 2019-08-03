@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe.config
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.exe
+C:\Users\Administrator\Desktop\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe.config
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.exe
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\bin\Debug\Wesley.Crawler.SimpleCrawler.pdb
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.exe
+C:\Users\Administrator\Desktop\爬虫\Simple-Web-Crawler-master\Wesley.Crawler.SimpleCrawler\obj\Debug\Wesley.Crawler.SimpleCrawler.pdb
